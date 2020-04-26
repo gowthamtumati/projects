@@ -1,0 +1,4 @@
+/home/gowtham/Downloads/Liveness/Pass/build/CMakeFiles/edit_cache.dir
+/home/gowtham/Downloads/Liveness/Pass/build/CMakeFiles/intrinsics_gen.dir
+/home/gowtham/Downloads/Liveness/Pass/build/CMakeFiles/rebuild_cache.dir
+/home/gowtham/Downloads/Liveness/Pass/build/CMakeFiles/LivenessAnalysisPass.dir
